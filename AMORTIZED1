@@ -1,4 +1,4 @@
-What is the time complexity of the following code :
+ What is the time complexity of the following code :
 
         int j = 0;
         for(int i = 0; i < n; ++i) {
